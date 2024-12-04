@@ -13,7 +13,7 @@
   "dependencies": {
     "axios-retry": "^3.1.9",
     "bluebird": "^3.7.2",
-    "jquery": "1.9.1",
+    "jquery": "3.5.0",
     "knex": "^0.20.0",
     "koa": ">=2.0.0",
     "mqtt": "^4.2.1",
